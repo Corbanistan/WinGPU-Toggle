@@ -68,7 +68,7 @@ namespace WinGPU_Toggle
             Console.WriteLine("This command line utility allows the user to list and enable / disable the GPUs within their system.");
             Console.WriteLine("\nThe following commands are available:");
             Console.WriteLine("\thelp\tprint help documentation");
-            Console.WriteLine("\tgpu\tprint GPUs available in system");
+            Console.WriteLine("\tgpu\tlist GPUs available in the system");
             Console.WriteLine("\ttoggle\ttoggle enable / disable of a GPU");
             Console.WriteLine("\tclear\tclear the console\n");
         }
