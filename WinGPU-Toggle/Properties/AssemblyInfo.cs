@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WinGPU-Toggle")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A .NET Framework 4.8.1 console application that enables or disables a selected GPU. Useful for multi-GPU systems or laptops with switchable GPUs.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("WinGPU-Toggle")]
